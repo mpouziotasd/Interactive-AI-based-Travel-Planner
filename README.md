@@ -12,7 +12,9 @@
 
 
 ## Requirements
-> Python, Miniconda, pip OR python module: pip
+- Python
+- Miniconda/Anaconda (Virtual Environment)
+- pip OR python module: pip
 
 ## How to Run
 ```

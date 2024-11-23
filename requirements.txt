@@ -1,0 +1,6 @@
+pydeck # Maps
+streamlit # Interactive Graphical User Interface
+pandas # Load Data Method
+numpy
+geopy
+pyproj

@@ -1,5 +1,5 @@
 # Interactive AI-Based Travel Planner
-| An Interactive Traveling Ticket Planner Using Streamlit, Djikstra's Algorithm and Map Box 
+| An Interactive Traveling Ticket Planner Using Streamlit, Djikstra's Algorithm and a Satellite Map Box to visualize travel routes 
 
 ## Description
 > This simple project **Interactive AI-Based Traveling Ticket Planner** is web-based tool designed to simplify route decisions based on user prefences. This tool utilizes **Djikstra's** algorithm in the back-end to determine the shortest path either by duration or cost. It works by selecting a departure and a Destination city using a dropdown list from a sidebar and a choice to sort either by cost or duration. 
@@ -14,7 +14,7 @@
 ## Requirements
 - Python
 - Miniconda/Anaconda (Virtual Environment)
-- pip OR python module: pip
+- pip OR python -m pip
 
 ## How to Run
 ```

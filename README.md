@@ -3,6 +3,7 @@
 
 ## Description
 > This simple project **Interactive AI-Based Traveling Ticket Planner** is web-based tool designed to simplify route decisions based on user prefences. This tool utilizes **Djikstra's** algorithm in the back-end to determine the shortest path either by duration or cost. It works by selecting a departure and a Destination city using a dropdown list from a sidebar and a choice to sort either by cost or duration. 
+<img src="figures/background.png">
 
 ## Features:
 - <span style="font-size: 16px; font-weight: bold;">Interactive User Interface:</span> An interactive user interface experience simplifying the interaction between the user and the backend.
